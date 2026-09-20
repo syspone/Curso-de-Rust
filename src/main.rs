@@ -1,3 +1,11 @@
+/* 	Projeto do Cruzamento Automático - versão s1
+
+	Simula carros em um cruzamento simples
+*/
+
+
+
+/* Geometria do cruzamento
 
 						largura V
 				margem V|    |
@@ -18,6 +26,6 @@
 
 */
 fn main() {
-    println!("Hello, world!");
+	println!("Inicio do programa");
+	println!("Fim da simulação");
 }
-// Isso é um comment em rust
